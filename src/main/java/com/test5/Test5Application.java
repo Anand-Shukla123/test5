@@ -11,6 +11,7 @@ public class Test5Application {
 	int z = 40;
 	int a = 30;
 	float e= 12.3;
+	system.out.println(12);
 	public static void main(String[] args) {
 		SpringApplication.run(Test5Application.class, args);
 	}
